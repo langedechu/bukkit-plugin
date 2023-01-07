@@ -1,7 +1,3 @@
-/**
- * @license GPL-3.0
- */
-
 package com.username.bukkitplugin;
 
 import org.bukkit.Bukkit;
