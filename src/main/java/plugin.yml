@@ -1,0 +1,10 @@
+name: bukkitplugin
+main: com.username.bukkitplugin.BukkitPlugin
+version: 1.0-SNAPSHOT
+
+commands:
+  basic:
+    description: A simple command
+    usage: /basic
+    permission: bukkitplugin.basic
+    permission-message: You don't have bukkitplugin.basic permission.
